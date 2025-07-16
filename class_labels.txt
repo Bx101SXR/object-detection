@@ -1,0 +1,5 @@
+0,bazoka
+1,kursi
+2,meja
+3,mobil
+4,tank
